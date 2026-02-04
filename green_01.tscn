@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://c2844mkej2h2j"]
+
+[ext_resource type="Texture2D" uid="uid://b38luw34lympo" path="res://Sprites/Green_01.png" id="1_wrdc2"]
+
+[node name="Green01" type="Sprite2D" unique_id=1533676034]
+position = Vector2(4, -163)
+texture = ExtResource("1_wrdc2")
